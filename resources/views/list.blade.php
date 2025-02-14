@@ -97,7 +97,7 @@ h2 {
 .btn-danger {
     background: #e74c3c;
     border: none;
-    transition: 0.3s;
+    transition: 0.4s;
 }
 
 .btn-danger:hover {
